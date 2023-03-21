@@ -1,4 +1,4 @@
-package adapter.ejercicio;
+package patronesdisenotercerparcialpractica.ejercicio5;
 
 public interface IAplicacion2 {
     void iniciarSesion();

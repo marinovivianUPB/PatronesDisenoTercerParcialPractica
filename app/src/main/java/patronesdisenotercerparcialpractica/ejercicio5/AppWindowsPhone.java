@@ -1,4 +1,4 @@
-package adapter.ejercicio;
+package patronesdisenotercerparcialpractica.ejercicio5;
 
 public class AppWindowsPhone implements IAplicacion{
     private String tipo = "APLICACION WINDOWS PHONE";

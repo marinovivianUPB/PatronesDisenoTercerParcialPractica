@@ -1,4 +1,4 @@
-package adapter.ejercicio;
+package patronesdisenotercerparcialpractica.ejercicio5;
 
 public class AppAndroid implements IAplicacion{
     private String tipo = "APLICACION ANDROID";

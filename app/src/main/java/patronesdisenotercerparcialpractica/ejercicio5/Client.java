@@ -1,5 +1,4 @@
-package adapter.ejercicio;
-
+package patronesdisenotercerparcialpractica.ejercicio5;
 public class Client {
     public static void main(String[] args) {
         IAplicacion2 a = new AppWeb();
